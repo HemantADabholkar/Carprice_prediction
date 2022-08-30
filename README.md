@@ -1,2 +1,3 @@
 # Carprice_prediction
-With the help of this project we can predict the car price
+Used Linear Regression algorithm to build the model which predict
+price of the car.
